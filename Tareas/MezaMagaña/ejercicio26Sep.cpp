@@ -1,6 +1,6 @@
 /*
-Autor Joshua Immanuel Meza Magana
-Fecha 26/09/2020
+Author Joshua Immanuel Meza Magana
+Date 26/09/2020
 Version 1.0.0
 Program wich generates 3 random rational numbers and turn them into 1 0 0.
 */
