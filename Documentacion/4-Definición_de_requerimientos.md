@@ -44,4 +44,4 @@ NO FINAL, BORRADOR
 
 ## Diagrama UML
 
-...
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Documentacion/Img/Diagramacasos.jpg" witdh=50%>
