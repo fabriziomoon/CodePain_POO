@@ -39,5 +39,9 @@ NO FINAL, BORRADOR
 * El usuario podrá consultar las mejoras de estadísticas base disponibles para compra y venta.
 * El usuario podrá interactuar con un sistema de mercadeo básico (vender y comprar mejoras).
 
-## Diagrama UML
+## Diagrama casos de uso
 <img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Documentacion/Img/Diagramacasos.jpg" witdh=50%>
+
+## Diagrama UML
+
+...
