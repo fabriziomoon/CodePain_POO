@@ -15,7 +15,7 @@ Profesor Dr. Edgar Antonio Cambranes Martínez :space_invader:
 
 ## Proyecto
 
-:file_folder: [Documentación](#): En proceso.
+:file_folder: [Documentación](https://github.com/JoshuaMeza/CodePain_POO/tree/master/Documentacion): Toda la información relacionada con el proyecto puede ser encontrada aquí.
 
 :file_folder: [Producto Final](#): En proceso.
 

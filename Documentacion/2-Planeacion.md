@@ -7,6 +7,7 @@
 ## Calendario de actividades
 
 | Actividades | Fecha | Responsable(s) | Artefactos resultantes |
+| ----------- | ----- | -------------- | ---------------------- |
 | ... | ... | ... | ... |
 
 ## Repositorio de documentos

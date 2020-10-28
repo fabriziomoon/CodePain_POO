@@ -11,4 +11,5 @@
 ## Bitácora
 
 | Tarea | Fecha de inicio | Fecha de finalización | Tiempo empleado | Comentarios |
+| ----- | --------------- | --------------------- | --------------- | ----------- |
 | ... | ... | ... | ... | ... |
