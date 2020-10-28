@@ -1,4 +1,4 @@
-# Programación Orientada a Objetos
+# Proyecto - SpaceWar
 
 Repositorio de Programación Orientada a Objetos 2020 :computer:
 
@@ -8,18 +8,14 @@ Profesor Dr. Edgar Antonio Cambranes Martínez :space_invader:
 
 ## Integrantes
 
-- Joshua Immanuel Meza Magaña [@JoshuaMeza](https://github.com/JoshuaMeza)
-- Jonathan Gregorio Gómez Benítez [@JonathanGGB](https://github.com/JonathanGGB)
-- Luis Gerardo Leon Ortega [@luislortega](https://github.com/luislortega)
-- Fabrizio Luna Castillo [@fabriziomoon](https://github.com/fabriziomoon) 
+- Gómez Benítez Jonathan Gregorio [@JonathanGGB](https://github.com/JonathanGGB)
+- Leon Ortega Luis Gerardo [@luislortega](https://github.com/luislortega)
+- Luna Castillo Fabrizio [@fabriziomoon](https://github.com/fabriziomoon) 
+- Meza Magaña Joshua Immanuel [@JoshuaMeza](https://github.com/JoshuaMeza)
 
 ## Proyecto
 
-:file_folder: [Primera Entrega](#): En proceso.
-
-:file_folder: [Segunda Entrega](#): En proceso.
-
-:file_folder: [Tercera Entrega](#): En proceso.
+:file_folder: [Documentación](#): En proceso.
 
 :file_folder: [Producto Final](#): En proceso.
 
