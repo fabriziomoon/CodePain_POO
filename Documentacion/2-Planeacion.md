@@ -7,7 +7,8 @@
 ## Calendario de actividades
 
 | Actividades | Fecha | Responsable(s) | Artefactos resultantes |
-| Definición del proyecto | 20sep - 20oct | Todo el equipo   | Historias de usuario, descripción del proyecto, requerimientos, (información en general) |
+| ----------- | ----- | -------------- | ---------------------- |
+| Definición del proyecto | 20sep - 20oct | Todo el equipo | Historias de usuario, descripción del proyecto, requerimientos, (información en general) |
 | Creación del repositorio con los archivos de la primera entrega | 28oct - 2nov | Todo el equipo | Documentación inicial del proyecto, calendario, herramientas, requerimientos,etc |
 | Definición de roles del equipo | 2nov-¿? | Todo el equipo | No aplica | 
 | Llamadas de control de avances, dudas y sugerencias | Cuando el equipo defina | Todo el equipo | Versiones del producto |
