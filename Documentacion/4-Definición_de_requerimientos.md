@@ -22,8 +22,6 @@
 
 ## Historias de usuario
 
-NO FINAL, BORRADOR
-
 * El usuario podrá crear una cuenta.
 * El usuario podrá verificar su cuenta.
 * El usuario podrá entrar a su cuenta.
@@ -40,8 +38,19 @@ NO FINAL, BORRADOR
 * El usuario podrá interactuar con un sistema de mercadeo básico (vender y comprar mejoras).
 
 ## Diagrama casos de uso
-...
+
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/DiagramaCasos.jpg" witdh=50% margin=auto>
 
 ## Diagrama UML
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Documentacion/Img/Diagramacasos.jpg" witdh=50%>
+### Cliente
+
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Client.jpg" witdh=50% margin=auto>
+
+### API
+
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Api.jpg" witdh=50% margin=auto>
+
+### Base de datos
+
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/DataBase.jpg" witdh=50% margin=auto>
