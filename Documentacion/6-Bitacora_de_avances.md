@@ -6,13 +6,13 @@
 
 ## Diseños pre-eliminares
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Login.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Login.jpg" witdh=30% margin=auto>
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Menu.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Menu.jpg" witdh=30% margin=auto>
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Map.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Map.jpg" witdh=30% margin=auto>
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Ships.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Ships.jpg" witdh=30% margin=auto>
 
 ## Bitácora
 

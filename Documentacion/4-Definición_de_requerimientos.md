@@ -45,12 +45,12 @@
 
 ### Cliente
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Client.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Client.png" witdh=40% margin=auto>
 
 ### API
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Api.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Api.jpg" witdh=30% margin=auto>
 
 ### Base de datos
 
-<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/DataBase.jpg" witdh=50% margin=auto>
+<img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/DataBase.jpg" witdh=30% margin=auto>
