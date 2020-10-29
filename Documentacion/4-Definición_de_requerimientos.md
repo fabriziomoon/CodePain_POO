@@ -11,7 +11,7 @@
 
 ## Requerimientos de usuario
 
-El usuario puede crearce una cuenta, ingresar a su cuenta y disfrutar del juego multijugador.
+El usuario puede crearse una cuenta, ingresar a su cuenta y disfrutar del juego multijugador.
 
 ## Requerimientos de sistema
 
@@ -74,7 +74,7 @@ Cuando el usuario ya tiene una cuenta, el sistema le pedirá al usuario que inic
 
 <img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/DiagramaCasos.jpg" witdh=50% margin=auto>
 
-## Diagrama UML
+## Diagramas UML
 
 ### Cliente
 

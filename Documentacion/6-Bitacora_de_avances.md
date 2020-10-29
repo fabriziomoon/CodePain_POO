@@ -10,7 +10,7 @@
 | ----- | --------------- | --------------------- | --------------- | ----------- |
 | ... | ... | ... | ... | ... |
 
-## Diseños pre-eliminares
+## Diseños preliminares
 
 <img src="https://raw.githubusercontent.com/JoshuaMeza/CodePain_POO/master/Recursos/Login.jpg" witdh=30% margin=auto>
 
